@@ -1,0 +1,240 @@
+body{
+    background-color: darkblue
+}
+
+#seceret{
+    text-align: center;
+    color: aliceblue;
+}
+
+.header{
+    position: fixed;
+    align-items:baseline;
+    display: flex;
+    width: 60px;
+    height: 50px;
+}
+
+#page{
+    text-align: center;
+    color: aliceblue;
+}
+.background{
+    font-size: 30px;
+    text-align: center;  
+}
+
+#info{
+    color: aliceblue;
+}
+
+#infopt2{
+    color: aliceblue;
+}
+
+/*used chatGPT to help find out how to make items right next to each other instead of it being stacked ontop
+of each other*/
+#vintage{
+    text-align: left;
+    font-size: 50px;
+    color: aliceblue;
+    display: flex;
+    align-items: center;
+    gap: 120px;
+}
+
+#leadingending{
+    color: aliceblue;
+    text-align: center;
+}
+
+#outro{
+    color: aliceblue;
+    text-align: center;
+}
+
+#websites{
+    text-align: left;
+    font-size: 20px;
+    color: aliceblue;
+    display: flex;
+    align-items: center;
+    gap: 300px;
+}
+
+#websitept2{
+    text-align: left;
+    font-size: 20px;
+    color: aliceblue;
+    display: flex;
+    align-items: center;
+    gap: 800px;
+}
+
+.famous{
+    text-align: center;
+    color: aliceblue;
+}
+
+.teams{
+    text-align: center;
+    color: aliceblue;
+}
+
+#conference{
+    text-align: center;
+    font-size: 40px;
+    color: aliceblue;
+    display: flex;
+    align-items: center;
+    gap: 120px;
+}
+
+.pay{
+    text-align: center;
+    color: aliceblue;
+}
+
+#top5{
+    text-align: center;
+    font-size: 20px;
+    color: aliceblue;
+    display: flex;
+    align-items: center;
+    gap: 120px;
+}
+
+#tua{
+    text-align: center;
+    font-size: 20px;
+    color: aliceblue;
+}
+
+/*used ChatGPT to help make image stay to the right side of page*/
+.home {
+    display: flex;           
+    justify-content: flex-end;
+    align-items: center;
+    width: 100%;
+    box-sizing: border-box;
+    position: fixed
+}
+
+#networth{
+    text-align: center;
+    font-size: 20px;
+    color: aliceblue;
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+
+#moreinfo{
+    color: aliceblue;
+    align-items: center;
+    text-align: center;
+
+}
+
+#AFC{
+    color: aliceblue;
+    align-items: center;
+    text-align: center;
+}
+
+#NFC{
+    color: aliceblue;
+    align-items: center;
+    text-align: center;
+}
+
+
+
+img{
+    max-width: 300px;
+    height: auto;
+    margin-top: 20px;
+  }
+
+  #randomteam{
+    align-items: center;
+    text-align: center;
+    color: aliceblue;
+  }
+
+.equipment{
+    align-items: center;
+    text-align: center;
+    color: aliceblue;
+}
+
+#equipmentintro{
+    color: aliceblue;
+}
+
+#equipment{
+    color: aliceblue;
+}
+
+
+
+#container{
+    border:thick double aliceblue;
+    height: 100px;
+    width: 1400px;
+    background-color: green;
+}
+
+
+#move{
+    background-color: brown;
+    height: 35px;
+    width: 35px;
+    position: relative;
+    top: 25%;
+    left: 0;
+}
+
+
+
+#helmettitle{
+    color: aliceblue;
+}
+
+#shoulderpadstitle{
+    color: aliceblue;
+}
+
+#padstitle{
+    color: aliceblue;
+}
+
+#mouthguardtitle{
+    color: aliceblue;
+}
+
+#goat{
+    align-items: center;
+    text-align: center;
+    color: aliceblue;
+}
+
+#tom-brady{
+    color: aliceblue;
+}
+
+#pat{
+    align-items: center;
+    text-align: center;
+    color: aliceblue;
+}
+
+#patrick-mahomes{
+    color: aliceblue;
+}
+
+#conclusion{
+    align-items: center;
+    text-align: center;
+    color: aliceblue;
+}
